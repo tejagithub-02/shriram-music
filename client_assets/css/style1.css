@@ -1,0 +1,265 @@
+.ss_performed,
+.ss_video {
+	text-shadow: 2px 3px 3px #c1bbbb;
+	text-align: center
+}
+
+.ss_pandit,
+.ss_sangeet,
+.ss_vision {
+	padding-top: 3%
+}
+
+.ss_ss1,
+.ss_video {
+	text-transform: uppercase
+}
+
+.ss_top {
+	font-family: Book Antiqua
+}
+
+.ss_sangeet {
+	color: #bf0005;
+	font-weight: 700;
+	font-size: 20px;
+	font-family: abcd
+}
+
+.ss_through,
+.ss_through1 {
+	font-family: abcd !important;
+	color: #fff !important;
+	font-weight: 500 !important;
+	slidedirection: bottom !important;
+	durationin: 500 !important;
+	slideoutdirection: fade !important;
+	durationout: 1000 !important
+}
+
+.ss_layer {
+	width: 100%;
+	height: 461px
+}
+
+.ss_layer1 {
+	slidedelay: 8000;
+	transition2d: all
+}
+
+.ss_through {
+	left: 450px !important;
+	top: 154px !important;
+	font-size: 49px !important;
+	easingin: easeoutexpo !important;
+	delayin: 1500 !important
+}
+
+.ss_through1 {
+	left: 280px !important;
+	top: 234px !important;
+	font-size: 22px !important;
+	easingin: easeoutexpo !important delayin:2000 !important;
+	line-height: 1.7 !important
+}
+
+.ss_classes,
+.ss_events {
+	background-color: rgba(237, 200, 17, 1);
+	transition: border-color .4s ease 0s, background-color .4s ease 0s;
+	box-shadow: 0 4px 6px 0 rgba(0, 0, 0, .2);
+	border: 0 solid rgba(0, 77, 78, 1);
+	border-radius: 0
+}
+
+.ss_performed {
+	padding-bottom: 3%
+}
+
+.ss_paragraph {
+	line-height: 1.8;
+	padding-bottom: 11%
+}
+
+.ss_paragraph1 {
+	line-height: 1.8;
+	padding-bottom: 21%
+}
+
+.ss_pandit {
+	line-height: 1.5;
+	font-size: 20px
+}
+
+.ss_about {
+	margin-top: 6%
+}
+
+.ss_philosophy {
+	background-repeat: no-repeat !important;
+	-webkit-background-size: cover !important;
+	-moz-background-size: cover !important;
+	-o-background-size: cover !important;
+	background-size: cover !important;
+	background-position: center !important
+}
+
+.ss_confirm {
+	text-align: justify;
+	line-height: 2
+}
+
+.ss_raag {
+	text-align: right;
+	padding-top: 1%;
+	color: #1d73bd;
+	font-size: 21px;
+	font-family: cursive
+}
+
+.ss_annual,
+.ss_taranga {
+	font-weight: 700;
+	font-family: abcd;
+	line-height: 1.8
+}
+
+.ss_anind {
+	text-align: right;
+	font-weight: 700;
+	font-size: 17px
+}
+
+.ss_contact {
+	padding-bottom: 3%
+}
+
+.ss_address {
+	color: #bf0005 !important;
+	text-shadow: none !important
+}
+
+.ss_facebook,
+.ss_insta,
+.ss_rss,
+.ss_twit {
+	font-size: 20px;
+	color: #fff;
+	padding: 3%;
+	border-radius: 100%
+}
+
+.ss_facebook {
+	background-color: #1765b1
+}
+
+.ss_twit {
+	background-color: #3ccddc
+}
+
+.ss_insta {
+	background-color: #d33031
+}
+
+.ss_rss {
+	background-color: #f59306
+}
+
+.ss_ss1 {
+	text-shadow: 2px 3px 3px #c1bbbb;
+	text-align: center
+}
+
+.ss_article {
+	line-height: 1.8
+}
+
+.ss_annual {
+	text-align: justify;
+	padding-top: 3%;
+	font-size: 15px
+}
+
+.ss_facebook1,
+.ss_insta1,
+.ss_rss1,
+.ss_twit1 {
+	font-size: 20px;
+	color: #fff;
+	padding: 2%;
+	border-radius: 100%
+}
+
+.ss_facebook1 {
+	background-color: #1765b1
+}
+
+.ss_twit1 {
+	background-color: #3ccddc
+}
+
+.ss_insta1 {
+	background-color: #d33031
+}
+
+.ss_rss1 {
+	background-color: #f59306
+}
+
+.ss_follow {
+	text-align: center
+}
+
+.ss_social {
+	padding-left: 5%
+}
+
+.ss_sponser {
+	margin-top: 7%
+}
+
+.ss_taranga {
+	text-align: justify;
+	padding-top: 3%;
+	font-size: 15px
+}
+
+.ss_taranga1 {
+	padding-bottom: 4%;
+	margin-top: -5%
+}
+
+.ss_prev {
+	top: 93px !important
+}
+
+.ss_hindu {
+	padding-top: 2%
+}
+
+.ss_venue {
+	padding-top: 1%;
+	font-size: 15px;
+	line-height: 1.9
+}
+
+.ss_moment,
+.ss_workshop {
+	font-weight: 700;
+	text-align: justify;
+	font-family: abcd;
+	font-size: 15px;
+	line-height: 1.8
+}
+
+.ss_workshop {
+	padding-top: 3%
+}
+
+.ss_intro {
+	padding-top: 2%
+}
+
+.ss_moment {
+	padding-top: 3%
+}
